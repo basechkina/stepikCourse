@@ -1,2 +1,2 @@
-# stepipCourse
+# stepikCourse
 Homework
