@@ -1,2 +1,2 @@
 # stepikCourse
-Homework
+Homework for course
